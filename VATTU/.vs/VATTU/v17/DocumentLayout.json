@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kasiz\\Documents\\DeTaiDSA\\VATTU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0631D5D9-2315-421F-A2FD-C63491BFF624}|VATTU.vcxproj|C:\\Users\\kasiz\\Documents\\DeTaiDSA\\VATTU\\NHAN_VIEN.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0631D5D9-2315-421F-A2FD-C63491BFF624}|VATTU.vcxproj|solutionrelative:NHAN_VIEN.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0631D5D9-2315-421F-A2FD-C63491BFF624}|VATTU.vcxproj|C:\\Users\\kasiz\\Documents\\DeTaiDSA\\VATTU\\GHI_DOC.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0631D5D9-2315-421F-A2FD-C63491BFF624}|VATTU.vcxproj|solutionrelative:GHI_DOC.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0631D5D9-2315-421F-A2FD-C63491BFF624}|VATTU.vcxproj|C:\\Users\\kasiz\\Documents\\DeTaiDSA\\VATTU\\STRUCT.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0631D5D9-2315-421F-A2FD-C63491BFF624}|VATTU.vcxproj|solutionrelative:STRUCT.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0631D5D9-2315-421F-A2FD-C63491BFF624}|VATTU.vcxproj|C:\\Users\\kasiz\\Documents\\DeTaiDSA\\VATTU\\HOA_DON.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0631D5D9-2315-421F-A2FD-C63491BFF624}|VATTU.vcxproj|solutionrelative:HOA_DON.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0631D5D9-2315-421F-A2FD-C63491BFF624}|VATTU.vcxproj|C:\\Users\\kasiz\\Documents\\DeTaiDSA\\VATTU\\VAT_TU.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0631D5D9-2315-421F-A2FD-C63491BFF624}|VATTU.vcxproj|solutionrelative:VAT_TU.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0631D5D9-2315-421F-A2FD-C63491BFF624}|VATTU.vcxproj|C:\\Users\\kasiz\\Documents\\DeTaiDSA\\VATTU\\VATTU.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0631D5D9-2315-421F-A2FD-C63491BFF624}|VATTU.vcxproj|solutionrelative:VATTU.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0631D5D9-2315-421F-A2FD-C63491BFF624}|VATTU.vcxproj|C:\\Users\\kasiz\\Documents\\DeTaiDSA\\VATTU\\VE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0631D5D9-2315-421F-A2FD-C63491BFF624}|VATTU.vcxproj|solutionrelative:VE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0631D5D9-2315-421F-A2FD-C63491BFF624}|VATTU.vcxproj|C:\\Users\\kasiz\\Documents\\DeTaiDSA\\VATTU\\MACRO.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0631D5D9-2315-421F-A2FD-C63491BFF624}|VATTU.vcxproj|solutionrelative:MACRO.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0631D5D9-2315-421F-A2FD-C63491BFF624}|VATTU.vcxproj|C:\\Users\\kasiz\\Documents\\DeTaiDSA\\VATTU\\mylib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0631D5D9-2315-421F-A2FD-C63491BFF624}|VATTU.vcxproj|solutionrelative:mylib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xmemory||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xstring||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\string||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "xmemory",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xmemory",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xmemory",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xmemory",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xmemory",
+              "ViewState": "AQIAAFAFAAAAAAAAAAAAwF0FAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-23T16:01:48.178Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GHI_DOC.H",
+              "DocumentMoniker": "C:\\Users\\kasiz\\Documents\\DeTaiDSA\\VATTU\\GHI_DOC.H",
+              "RelativeDocumentMoniker": "GHI_DOC.H",
+              "ToolTip": "C:\\Users\\kasiz\\Documents\\DeTaiDSA\\VATTU\\GHI_DOC.H",
+              "RelativeToolTip": "GHI_DOC.H",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAUwGQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-08T14:22:18.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VATTU.cpp",
+              "DocumentMoniker": "C:\\Users\\kasiz\\Documents\\DeTaiDSA\\VATTU\\VATTU.cpp",
+              "RelativeDocumentMoniker": "VATTU.cpp",
+              "ToolTip": "C:\\Users\\kasiz\\Documents\\DeTaiDSA\\VATTU\\VATTU.cpp",
+              "RelativeToolTip": "VATTU.cpp",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-08T13:55:31.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HOA_DON.H",
+              "DocumentMoniker": "C:\\Users\\kasiz\\Documents\\DeTaiDSA\\VATTU\\HOA_DON.H",
+              "RelativeDocumentMoniker": "HOA_DON.H",
+              "ToolTip": "C:\\Users\\kasiz\\Documents\\DeTaiDSA\\VATTU\\HOA_DON.H",
+              "RelativeToolTip": "HOA_DON.H",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYLAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-08T13:58:17.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "xstring",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xstring",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xstring",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xstring",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xstring",
+              "ViewState": "AQIAAN4IAAAAAAAAAAAjwMMIAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-24T16:22:21.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VE.H",
+              "DocumentMoniker": "C:\\Users\\kasiz\\Documents\\DeTaiDSA\\VATTU\\VE.H",
+              "RelativeDocumentMoniker": "VE.H",
+              "ToolTip": "C:\\Users\\kasiz\\Documents\\DeTaiDSA\\VATTU\\VE.H",
+              "RelativeToolTip": "VE.H",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-23T16:26:24.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "STRUCT.H",
+              "DocumentMoniker": "C:\\Users\\kasiz\\Documents\\DeTaiDSA\\VATTU\\STRUCT.H",
+              "RelativeDocumentMoniker": "STRUCT.H",
+              "ToolTip": "C:\\Users\\kasiz\\Documents\\DeTaiDSA\\VATTU\\STRUCT.H",
+              "RelativeToolTip": "STRUCT.H",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAswGkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-08T14:24:10.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NHAN_VIEN.H",
+              "DocumentMoniker": "C:\\Users\\kasiz\\Documents\\DeTaiDSA\\VATTU\\NHAN_VIEN.H",
+              "RelativeDocumentMoniker": "NHAN_VIEN.H",
+              "ToolTip": "C:\\Users\\kasiz\\Documents\\DeTaiDSA\\VATTU\\NHAN_VIEN.H",
+              "RelativeToolTip": "NHAN_VIEN.H",
+              "ViewState": "AQIAANEBAAAAAAAAAAAnwOEBAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-08T14:24:05.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VAT_TU.H",
+              "DocumentMoniker": "C:\\Users\\kasiz\\Documents\\DeTaiDSA\\VATTU\\VAT_TU.H",
+              "RelativeDocumentMoniker": "VAT_TU.H",
+              "ToolTip": "C:\\Users\\kasiz\\Documents\\DeTaiDSA\\VATTU\\VAT_TU.H",
+              "RelativeToolTip": "VAT_TU.H",
+              "ViewState": "AQIAAAgDAAAAAAAAAADgvxUDAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-08T14:22:22.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MACRO.H",
+              "DocumentMoniker": "C:\\Users\\kasiz\\Documents\\DeTaiDSA\\VATTU\\MACRO.H",
+              "RelativeDocumentMoniker": "MACRO.H",
+              "ToolTip": "C:\\Users\\kasiz\\Documents\\DeTaiDSA\\VATTU\\MACRO.H",
+              "RelativeToolTip": "MACRO.H",
+              "ViewState": "AQIAABEBAAAAAAAAAAAAAJoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-08T14:18:49.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "mylib.h",
+              "DocumentMoniker": "C:\\Users\\kasiz\\Documents\\DeTaiDSA\\VATTU\\mylib.h",
+              "RelativeDocumentMoniker": "mylib.h",
+              "ToolTip": "C:\\Users\\kasiz\\Documents\\DeTaiDSA\\VATTU\\mylib.h",
+              "RelativeToolTip": "mylib.h",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-08T13:58:38.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "string",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\string",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\string",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\string",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\string",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAjwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-25T06:11:51.095Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

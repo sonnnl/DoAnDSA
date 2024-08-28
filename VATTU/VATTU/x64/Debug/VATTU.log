@@ -1,0 +1,64 @@
+﻿  VATTU.cpp
+C:\Users\kasiz\Documents\DeTaiDSA\VATTU\mylib.h(26,27): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  (compiling source file 'VATTU.cpp')
+  
+C:\Users\kasiz\Documents\DeTaiDSA\VATTU\mylib.h(26,32): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  (compiling source file 'VATTU.cpp')
+  
+C:\Users\kasiz\Documents\DeTaiDSA\VATTU\NHAN_VIEN.h(985,1): warning C4102: 'label1': unreferenced label
+  (compiling source file 'VATTU.cpp')
+  
+C:\Users\kasiz\Documents\DeTaiDSA\VATTU\NHAN_VIEN.h(976,6): warning C4101: 'choose': unreferenced local variable
+  (compiling source file 'VATTU.cpp')
+  
+C:\Users\kasiz\Documents\DeTaiDSA\VATTU\HOA_DON.H(529,24): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file 'VATTU.cpp')
+  
+C:\Users\kasiz\Documents\DeTaiDSA\VATTU\HOA_DON.H(950,80): warning C4244: '+=': conversion from 'float' to 'uint', possible loss of data
+  (compiling source file 'VATTU.cpp')
+  
+C:\Users\kasiz\Documents\DeTaiDSA\VATTU\HOA_DON.H(1076,81): warning C4244: '+=': conversion from 'float' to 'uint', possible loss of data
+  (compiling source file 'VATTU.cpp')
+  
+C:\Users\kasiz\Documents\DeTaiDSA\VATTU\HOA_DON.H(2345,15): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'VATTU.cpp')
+  
+C:\Users\kasiz\Documents\DeTaiDSA\VATTU\HOA_DON.H(2381,18): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'VATTU.cpp')
+  
+C:\Users\kasiz\Documents\DeTaiDSA\VATTU\HOA_DON.H(2391,85): warning C4244: '+=': conversion from 'double' to 'uint', possible loss of data
+  (compiling source file 'VATTU.cpp')
+  
+C:\Users\kasiz\Documents\DeTaiDSA\VATTU\HOA_DON.H(2402,18): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'VATTU.cpp')
+  
+C:\Users\kasiz\Documents\DeTaiDSA\VATTU\HOA_DON.H(2413,85): warning C4244: '+=': conversion from 'double' to 'uint', possible loss of data
+  (compiling source file 'VATTU.cpp')
+  
+C:\Users\kasiz\Documents\DeTaiDSA\VATTU\HOA_DON.H(2426,15): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'VATTU.cpp')
+  
+C:\Users\kasiz\Documents\DeTaiDSA\VATTU\HOA_DON.H(2433,20): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'VATTU.cpp')
+  
+C:\Users\kasiz\Documents\DeTaiDSA\VATTU\HOA_DON.H(2435,16): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'VATTU.cpp')
+  
+C:\Users\kasiz\Documents\DeTaiDSA\VATTU\HOA_DON.H(2455,15): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'VATTU.cpp')
+  
+C:\Users\kasiz\Documents\DeTaiDSA\VATTU\HOA_DON.H(2476,9): warning C4551: function call missing argument list
+  (compiling source file 'VATTU.cpp')
+  
+C:\Users\kasiz\Documents\DeTaiDSA\VATTU\HOA_DON.H(2353,11): warning C4101: 'p': unreferenced local variable
+  (compiling source file 'VATTU.cpp')
+  
+C:\Users\kasiz\Documents\DeTaiDSA\VATTU\HOA_DON.H(2836,56): warning C4244: '-=': conversion from 'float' to 'uint', possible loss of data
+  (compiling source file 'VATTU.cpp')
+  
+C:\Users\kasiz\Documents\DeTaiDSA\VATTU\HOA_DON.H(2870,4): warning C4551: function call missing argument list
+  (compiling source file 'VATTU.cpp')
+  
+C:\Users\kasiz\Documents\DeTaiDSA\VATTU\VATTU.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\kasiz\Documents\DeTaiDSA\VATTU\HOA_DON.H(1590,1): warning C4715: 'Find_NV': not all control paths return a value
+  VATTU.vcxproj -> C:\Users\kasiz\Documents\DeTaiDSA\VATTU\x64\Debug\VATTU.exe
